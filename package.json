@@ -1,0 +1,16 @@
+{
+  "name": "inventorymanagementapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Monarch Kumar",
+  "license": "ISC",
+  "description": "Simple Inventory Management app based on Express and Node with MongoDB backend",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
